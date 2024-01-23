@@ -1,0 +1,1 @@
+﻿SELECT * FROM student where studentid=6 and spass=123456
